@@ -2,6 +2,9 @@
  * Created by Administrator on 2015/9/2.
  */
 
+// a 1001
 var name = "";
 
-// a 1001
+
+// b1003
+var price = 100;
