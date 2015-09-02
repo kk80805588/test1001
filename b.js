@@ -8,6 +8,7 @@ var name = "";
 // a1002
 
 
+// a1003
 
 // b1003
 var price = 100;
